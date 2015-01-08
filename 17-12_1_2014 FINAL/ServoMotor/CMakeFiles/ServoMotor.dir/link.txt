@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ServoMotor.dir/servomotor.cpp.o  -o ServoMotor -rdynamic /opt/vc/lib/libmmal_core.so /opt/vc/lib/libmmal_util.so /opt/vc/lib/libmmal_vc_client.so /opt/vc/lib/libvcos.so /opt/vc/lib/libbcm_host.so -lwiringPi -lpthread -Wl,-rpath,/opt/vc/lib 

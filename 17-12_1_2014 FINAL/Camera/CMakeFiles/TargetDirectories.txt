@@ -1,0 +1,1 @@
+/home/pi/Camera/CMakeFiles/Color.dir

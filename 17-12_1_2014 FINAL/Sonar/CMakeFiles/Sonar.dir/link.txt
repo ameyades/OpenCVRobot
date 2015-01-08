@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Sonar.dir/sonar.cpp.o  -o Sonar -rdynamic -lwiringPi 
